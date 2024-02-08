@@ -1,4 +1,4 @@
 <?php
-phpinfo();
-# exec("git pull https://github.com/devzila/caterer.in.git main");
+exec("git pull https://github.com/devzila/caterer.in.git main");
+echo "Success";
 ?>
