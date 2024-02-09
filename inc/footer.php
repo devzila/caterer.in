@@ -11,8 +11,7 @@
                 Chandigarh<span class="text-dark">Caterer</span>
               </h1>
               <p class="lh-lg mb-4">
-                There cursus massa at urnaaculis estieSed aliquamellus vitae
-                ultrs condmentum leo massamollis its estiegittis miristum.
+                We are one of Chandigarh’s and Tri City's best caterer, offering a high level of catering service. With over many years experience and our innovative dishes range for wedding catering, corporate events to private functions, we make sure it remain memorable.
               </p>
               <div class="footer-icon d-flex">
                 <a
@@ -41,17 +40,16 @@
               <h4 class="mb-4">Special Facilities</h4>
               <div class="d-flex flex-column align-items-start">
                 <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Cheese Burger</a
+                  ><i class="fa fa-check text-primary me-2"></i>Satwik Buffet</a
                 >
                 <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Sandwich</a
+                  ><i class="fa fa-check text-primary me-2"></i>Housing Society Festival</a
                 >
                 <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Panner Burger</a
+                  ><i class="fa fa-check text-primary me-2"></i>Corporate Kitchen</a
                 >
                 <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Special
-                  Sweets</a
+                  ><i class="fa fa-check text-primary me-2"></i>Lunger</a
                 >
               </div>
             </div>
@@ -61,19 +59,18 @@
               <h4 class="mb-4">Contact Us</h4>
               <div class="d-flex flex-column align-items-start">
                 <p>
-                  <i class="fa fa-map-marker-alt text-primary me-2"></i> 123
-                  Street, New York, USA
+                  <i class="fa fa-map-marker-alt text-primary me-2"></i> SCO - 91
+                  2nd Floor, Panchkula
                 </p>
                 <p>
-                  <i class="fa fa-phone-alt text-primary me-2"></i> (+012) 3456
-                  7890 123
+                  <i class="fa fa-phone-alt text-primary me-2"></i>9898989898
                 </p>
                 <p>
                   <i class="fas fa-envelope text-primary me-2"></i>
                   info@example.com
                 </p>
                 <p>
-                  <i class="fa fa-clock text-primary me-2"></i> 26/7 Hours
+                  <i class="fa fa-clock text-primary me-2"></i> 24/7 Hours
                   Service
                 </p>
               </div>
