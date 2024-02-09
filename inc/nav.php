@@ -2,7 +2,7 @@
     <div class="container-fluid nav-bar">
       <div class="container">
         <nav class="navbar navbar-light navbar-expand-lg py-4">
-          <a href="index.html" class="navbar-brand">
+          <a href="index" class="navbar-brand">
             <h1 class="text-primary fw-bold mb-0">
               Chandigarh<span class="text-dark">Caterer</span>
             </h1>
@@ -17,12 +17,12 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav mx-auto">
-              <a href="index.html" class="nav-item nav-link active">Home</a>
-              <a href="about.html" class="nav-item nav-link">About</a>
-              <a href="service.html" class="nav-item nav-link">Services</a>
-              <a href="event.html" class="nav-item nav-link">Events</a>
-              <a href="menu.html" class="nav-item nav-link">Menu</a>
-              <a href="contact.html" class="nav-item nav-link">Contact</a>
+              <a href="index" class="nav-item nav-link active">Home</a>
+              <a href="about" class="nav-item nav-link">About</a>
+              <a href="service" class="nav-item nav-link">Services</a>
+              <a href="event" class="nav-item nav-link">Events</a>
+              <a href="menu" class="nav-item nav-link">Menu</a>
+              <a href="contact" class="nav-item nav-link">Contact</a>
             </div>
             <a
               href="tel:+919898989898"
