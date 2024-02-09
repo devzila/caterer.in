@@ -11,7 +11,8 @@
                 Chandigarh<span class="text-dark">Caterer</span>
               </h1>
               <p class="lh-lg mb-4">
-                We are one of Chandigarh’s and Tri City's best caterer, offering a high level of catering service. With over many years experience and our innovative dishes range for wedding catering, corporate events to private functions, we make sure it remain memorable.
+                We are one of Chandigarh’s and Tri City's best caterer, offering a high level of catering service. With over many years experience and our innovative dishes 
+                range, we make sure your event remain memorable.
               </p>
               <div class="footer-icon d-flex">
                 <a
