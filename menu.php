@@ -10,39 +10,6 @@
         </div>
         <!-- Spinner End -->
         <?php include_once("inc/nav.php") ?> 
-        <!-- Modal Search Start -->
-        <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-fullscreen">
-                <div class="modal-content rounded-0">
-                    <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Search by keyword</h5>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body d-flex align-items-center">
-                        <div class="input-group w-75 mx-auto d-flex">
-                            <input type="search" class="form-control bg-transparent p-3" placeholder="keywords" aria-describedby="search-icon-1">
-                            <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Modal Search End -->
-
-
-        <!-- Hero Start -->
-        <div class="container-fluid bg-light py-6 my-6 mt-0">
-            <div class="container text-center animated bounceInDown">
-                <h1 class="display-1 mb-4">Menu</h1>
-                <ol class="breadcrumb justify-content-center mb-0 animated bounceInDown">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-dark" aria-current="page">Menu</li>
-                </ol>
-            </div>
-        </div>
-        <!-- Hero End -->
-
 
         <!-- Menu Start -->
         <div class="container-fluid menu py-6">
