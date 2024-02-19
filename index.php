@@ -46,7 +46,7 @@
       </div>
     </div>
     <!-- Hero End -->
-    
+
 
     <!-- About Satrt -->
     <div class="container-fluid py-6">
@@ -210,12 +210,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-cheese fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Wedding Services</h4>
+                  <h4 class="mb-3">Marriage-Wedding Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    This includes everything from menu planning and preparation to setup, service, and cleanup.
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -231,12 +231,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-pizza-slice fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Corporate Catering</h4>
+                  <h4 class="mb-3">Birthday-Kitty Party Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    The type of food served will vary depending on the preferences of the guests and the theme of the party.
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -252,12 +252,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-hotdog fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Cocktail Reception</h4>
+                  <h4 class="mb-3">School-College Function Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    Specializes in providing food and beverage services for events at schools and colleges. 
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -273,12 +273,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-hamburger fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Bento Catering</h4>
+                  <h4 class="mb-3">Event Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    We handle everything from the initial planning and menu selection to the preparation, cooking, and serving of the food.
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -294,12 +294,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-wine-glass-alt fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Pub Party</h4>
+                  <h4 class="mb-3">Indoor-Outdoor Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    By choosing an indoor-outdoor catering, allowing you to focus on enjoying your event without worrying about the finer details of food service.
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -315,12 +315,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-walking fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Home Delivery</h4>
+                  <h4 class="mb-3">Buffet Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    It allows people to serve themselves food at their own pace and choose what they like, making it a flexible and convenient option.
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -336,12 +336,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-wheelchair fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Sit-down Catering</h4>
+                  <h4 class="mb-3">Corporate - Office Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    With careful planning, we create memorable and successful events for your employees, clients, and guests.
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -357,12 +357,12 @@
               >
                 <div class="service-content-icon text-center">
                   <i class="fas fa-utensils fa-7x text-primary mb-4"></i>
-                  <h4 class="mb-3">Buffet Catering</h4>
+                  <h4 class="mb-3">Social Function Catering</h4>
                   <p class="mb-4">
-                    Contrary to popular belief, ipsum is not simply random.
+                    It includes festivals party, graduation party, retirement party, charity events, family reunions etc.
                   </p>
                   <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
-                    >Read More</a
+                    >Contact Us</a
                   >
                 </div>
               </div>
@@ -423,7 +423,7 @@
                 data-bs-toggle="pill"
                 href="#tab-4"
               >
-                <span class="text-dark" style="width: 150px">Cocktail</span>
+                <span class="text-dark" style="width: 150px">Events</span>
               </a>
             </li>
             <li class="nav-item p-2">
@@ -803,7 +803,7 @@
             class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3"
             >Our Menu</small
           >
-          <h1 class="display-5 mb-5">Most Popular Food in the World</h1>
+          <h1 class="display-5 mb-5">Most Popular Food in the North India</h1>
         </div>
         <div class="tab-class text-center">
           <ul
@@ -1911,7 +1911,7 @@
             <div class="team-item rounded">
               <img class="img-fluid rounded-top" src="img/team-2.jpg" alt="" />
               <div class="team-content text-center py-3 bg-dark rounded-bottom">
-                <h4 class="text-primary">Jemes Born</h4>
+                <h4 class="text-primary">Rakesh Sharma</h4>
                 <p class="text-white mb-0">Executive Chef</p>
               </div>
               <div
@@ -1944,7 +1944,7 @@
             <div class="team-item rounded">
               <img class="img-fluid rounded-top" src="img/team-3.jpg" alt="" />
               <div class="team-content text-center py-3 bg-dark rounded-bottom">
-                <h4 class="text-primary">Martin Hill</h4>
+                <h4 class="text-primary">Vikas Kumar</h4>
                 <p class="text-white mb-0">Kitchen Porter</p>
               </div>
               <div
@@ -1977,7 +1977,7 @@
             <div class="team-item rounded">
               <img class="img-fluid rounded-top" src="img/team-4.jpg" alt="" />
               <div class="team-content text-center py-3 bg-dark rounded-bottom">
-                <h4 class="text-primary">Adam Smith</h4>
+                <h4 class="text-primary">Rameshwar Dayal</h4>
                 <p class="text-white mb-0">Head Chef</p>
               </div>
               <div

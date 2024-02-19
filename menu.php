@@ -16,7 +16,7 @@
             <div class="container">
                 <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
                     <small class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3">Our Menu</small>
-                    <h1 class="display-5 mb-5">Most Popular Food in the World</h1>
+                    <h1 class="display-5 mb-5">Most Popular Food in the North India</h1>
                 </div>
                 <div class="tab-class text-center">
                     <ul class="nav nav-pills d-inline-flex justify-content-center mb-5 wow bounceInUp" data-wow-delay="0.1s">
