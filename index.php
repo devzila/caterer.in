@@ -60,18 +60,16 @@
               class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3"
               >About Us</small
             >
-            <h1 class="display-5 mb-4">Trusted By 200 + satisfied clients</h1>
+            <h1 class="display-5 mb-4">Trusted By 500 + satisfied clients</h1>
             <p class="mb-4">
-              Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-              labore eit esdioilore magna aliqua. Ut enim ad minim veniam, quis
-              nostrud exercitation ullaemco laboeeiris nisi ut aliquip ex ea
-              commodo consequat. Duis aute irure dolor iesdein reprehendeerit in
-              voluptate velit esse cillum dolore.
+            We put continuous effort and attention to meet 
+            the expectation of our clients by actively working 
+            to understand what our clients' needs and looking for. We build strong, 
+            lasting relationships and create a successful business.
             </p>
             <div class="row g-4 text-dark mb-5">
               <div class="col-sm-6">
-                <i class="fas fa-share text-primary me-2"></i>Fresh and Fast
-                food Delivery
+                <i class="fas fa-share text-primary me-2"></i>Quick & Prompt Service 
               </div>
               <div class="col-sm-6">
                 <i class="fas fa-share text-primary me-2"></i>24/7 Customer
@@ -214,7 +212,7 @@
                   <p class="mb-4">
                     This includes everything from menu planning and preparation to setup, service, and cleanup.
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
@@ -235,7 +233,7 @@
                   <p class="mb-4">
                     The type of food served will vary depending on the preferences of the guests and the theme of the party.
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
@@ -256,7 +254,7 @@
                   <p class="mb-4">
                     Specializes in providing food and beverage services for events at schools and colleges. 
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
@@ -277,7 +275,7 @@
                   <p class="mb-4">
                     We handle everything from the initial planning and menu selection to the preparation, cooking, and serving of the food.
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
@@ -298,7 +296,7 @@
                   <p class="mb-4">
                     By choosing an indoor-outdoor catering, allowing you to focus on enjoying your event without worrying about the finer details of food service.
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
@@ -317,9 +315,9 @@
                   <i class="fas fa-walking fa-7x text-primary mb-4"></i>
                   <h4 class="mb-3">Buffet Catering</h4>
                   <p class="mb-4">
-                    It allows people to serve themselves food at their own pace and choose what they like, making it a flexible and convenient option.
+                    It allows people to serve themselves food at their own pace and choose what they like, making it a flexible and convenient option for everyone and any age group.
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
@@ -340,7 +338,7 @@
                   <p class="mb-4">
                     With careful planning, we create memorable and successful events for your employees, clients, and guests.
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
@@ -359,9 +357,9 @@
                   <i class="fas fa-utensils fa-7x text-primary mb-4"></i>
                   <h4 class="mb-3">Social Function Catering</h4>
                   <p class="mb-4">
-                    It includes festivals party, graduation party, retirement party, charity events, family reunions etc.
+                    It includes festivals, spritiual and religious party, graduation party, retirement party, charity events, family reunions etc.
                   </p>
-                  <a href="#" class="btn btn-primary px-4 py-2 rounded-pill"
+                  <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
                   >
                 </div>
