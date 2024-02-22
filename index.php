@@ -294,7 +294,7 @@
                   <i class="fas fa-wine-glass-alt fa-7x text-primary mb-4"></i>
                   <h4 class="mb-3">Indoor-Outdoor Catering</h4>
                   <p class="mb-4">
-                    By choosing an indoor-outdoor catering, allowing you to focus on enjoying your event without worrying about the finer details of food service.
+                    By choosing an indoor-outdoor catering, allowing you to focus on enjoying your event without worrying about the food service.
                   </p>
                   <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
@@ -315,7 +315,7 @@
                   <i class="fas fa-walking fa-7x text-primary mb-4"></i>
                   <h4 class="mb-3">Buffet Catering</h4>
                   <p class="mb-4">
-                    It allows people to serve themselves food at their own pace and choose what they like, making it a flexible and convenient option for everyone and any age group.
+                    It allows to serve themselves the food at their own pace and choice, making it a convenient option for everyone and any age group.
                   </p>
                   <a href="contact.php" class="btn btn-primary px-4 py-2 rounded-pill"
                     >Contact Us</a
@@ -430,7 +430,7 @@
                 data-bs-toggle="pill"
                 href="#tab-5"
               >
-                <span class="text-dark" style="width: 150px">Buffet</span>
+                <span class="text-dark" style="width: 150px">Academic</span>
               </a>
             </li>
           </ul>
@@ -534,7 +534,7 @@
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Cocktail</h4>
+                          <h4 class="me-auto">Academic</h4>
                           <a
                             href="img/event-5.jpg"
                             data-lightbox="event-5"
@@ -711,7 +711,7 @@
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Cocktail</h4>
+                          <h4 class="me-auto">Academic</h4>
                           <a
                             href="img/01.jpg"
                             data-lightbox="event-12"
@@ -729,7 +729,7 @@
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Cocktail</h4>
+                          <h4 class="me-auto">Academic</h4>
                           <a
                             href="img/01.jpg"
                             data-lightbox="event-13"
@@ -823,7 +823,7 @@
                 data-bs-toggle="pill"
                 href="#tab-7"
               >
-                <span class="text-dark" style="width: 150px">Main Course</span>
+                <span class="text-dark" style="width: 150px">Main Course (Veg.)</span>
               </a>
             </li>
             <li class="nav-item p-2">
@@ -832,7 +832,7 @@
                 data-bs-toggle="pill"
                 href="#tab-8"
               >
-                <span class="text-dark" style="width: 150px">Drinks</span>
+                <span class="text-dark" style="width: 150px">Beverage</span>
               </a>
             </li>
             <li class="nav-item p-2">
@@ -841,7 +841,7 @@
                 data-bs-toggle="pill"
                 href="#tab-9"
               >
-                <span class="text-dark" style="width: 150px">Offers</span>
+                <span class="text-dark" style="width: 150px">Dessert</span>
               </a>
             </li>
             <li class="nav-item p-2">
@@ -850,7 +850,7 @@
                 data-bs-toggle="pill"
                 href="#tab-10"
               >
-                <span class="text-dark" style="width: 150px">Our Spesial</span>
+                <span class="text-dark" style="width: 150px">South Indian Spl.</span>
               </a>
             </li>
           </ul>
@@ -868,12 +868,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Paneer</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Paneer Tikka</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Paneer tikka is an Indian dish made from chunks of paneer/ chhena marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes. 
                       </p>
                     </div>
                   </div>
@@ -889,12 +888,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Sweet Potato</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Veg Kebab</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      It is made with plenty of leafy greens and veggies like spinach, coriander leaves, green peas, potatoes and Indian spices.
                       </p>
                     </div>
                   </div>
@@ -910,12 +908,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Sabudana Tikki</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Mushroom Tikka</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Tandoori mushroom tikka is a super flavorful & delicious Indian appetizer made by grilling mushrooms in air fryer, oven or direct fire.
                       </p>
                     </div>
                   </div>
@@ -931,12 +928,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Pizza</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Paneer Pakoda</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      That has a lovely crispy texture with a moist, soft paneer from within. Mainly made with Paneer and gram flour.
                       </p>
                     </div>
                   </div>
@@ -952,12 +948,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Bacon</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Veg Chowmein</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Vegetable Chow Mein made with celery, broccoli, cabbage, carrots, and bean sprouts mixed with chow mein noodles in a savory sauce.
                       </p>
                     </div>
                   </div>
@@ -973,12 +968,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Chicken</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Veg. Manchurian</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Manchurian is a class of Indian Chinese dish made by roughly chopping and deep-frying ingredients such as chicken, cauliflower, prawns, fish, mutton, and paneer, and then sautéeing them in a sauce flavored with soy sauce.
                       </p>
                     </div>
                   </div>
@@ -994,12 +988,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Blooming</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Spring Roll</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Spring rolls are rolled appetizers or dim sum commonly found in Chinese and Southeast Asian cuisines. The kind of wrapper, fillings, and cooking technique used.
                       </p>
                     </div>
                   </div>
@@ -1015,12 +1008,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Sweet</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>French Fries</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer.
                       </p>
                     </div>
                   </div>
@@ -1040,12 +1032,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Argentinian</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Paneer Butter Masala</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                        Paneer Butter Masala, also known as butter paneer is a rich & creamy curry made with paneer, spices, onions, tomatoes, cashews and butter. 
                       </p>
                     </div>
                   </div>
@@ -1061,12 +1052,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Crispy</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Palak Paneer</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Palak paneer or palak chhena is an Indian dish consisting of chhena or paneer in a thick paste made from puréed spinach.
                       </p>
                     </div>
                   </div>
@@ -1082,12 +1072,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Sabudana Tikki</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Dal Makhani</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Dal makhani is a dish originating in Punjab region. A relatively modern variation of traditional lentil dishes, it is made with urad dal and other pulses, and includes butter and cream. 
                       </p>
                     </div>
                   </div>
@@ -1103,12 +1092,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Blooming</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Matar Paneer</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Matar paneer, also known as matar paneer, muttar paneer, and mutter paneer, is a modern restaurant-style and vegetarian punjabi dish consisting of peas and paneer in a tomato-based sauce, spiced with garam masala.
                       </p>
                     </div>
                   </div>
@@ -1124,12 +1112,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Argentinian</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Dal Tadka</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Dal tadka is a comforting, flavorful & hearty Indian dish. This flavorsome & delicious homemade dal tadka rivals any Indian restaurant!
                       </p>
                     </div>
                   </div>
@@ -1145,12 +1132,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Lemon</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Kadai Paneer</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Kadai Paneer is a spicy, warming, flavorful and super delicious dish made by cooking paneer & bell peppers in a fragrant, fresh ground spice Powder.
                       </p>
                     </div>
                   </div>
@@ -1166,12 +1152,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Water Drink</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Malai Kofta</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Malai Kofta is a delicious dish of fried balls of potato and paneer in a rich and creamy mild gravy made with sweet onions and tomatoes.
                       </p>
                     </div>
                   </div>
@@ -1187,12 +1172,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Salty lemon</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Shahi Paneer</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Shahi paneer or Paneer Rajwadi or Chhena Rajwadi or Raajsi Chhena is a preparation of chhena or paneer, native to the Indian subcontinent, consisting of a thick gravy of cream, tomatoes and Indian spices.
                       </p>
                     </div>
                   </div>
@@ -1213,7 +1197,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Crispy water</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1234,7 +1218,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Juice</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1255,7 +1239,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Orange</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1276,7 +1260,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Apple Juice</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1297,7 +1281,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Banana</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1318,7 +1302,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Sweet Water</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1339,7 +1323,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Hot Coffee</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1360,7 +1344,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Sweet Potato</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1384,12 +1368,11 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Sabudana Tikki</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4>Gulab Jamun</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                        Consectetur adipiscing elit sed dwso eiusmod tempor
-                        incididunt ut labore.
+                      Gulab jamun is a sweet confectionary or dessert, originating in the Indian subcontinent and a type of mithai popular in India.
                       </p>
                     </div>
                   </div>
@@ -1406,7 +1389,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Crispy</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1427,7 +1410,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Pizza</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1448,7 +1431,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Bacon</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1469,7 +1452,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Chicken</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1490,7 +1473,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Blooming</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1511,7 +1494,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Sweet</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1532,7 +1515,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Argentinian</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1557,7 +1540,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Sabudana Tikki</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1578,7 +1561,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Crispy</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1599,7 +1582,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Pizza</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1620,7 +1603,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Bacon</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1641,7 +1624,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Chicken</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1662,7 +1645,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Blooming</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1683,7 +1666,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Sweet</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
@@ -1704,7 +1687,7 @@
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
                         <h4>Argentinian</h4>
-                        <h4 class="text-primary">$90</h4>
+                        <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
                         Consectetur adipiscing elit sed dwso eiusmod tempor
