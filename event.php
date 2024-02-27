@@ -53,10 +53,10 @@
                                     <div class="row g-4">
                                         <div class="col-md-6 col-lg-3 wow bounceInUp" data-wow-delay="0.1s">
                                             <div class="event-img position-relative">
-                                                <img class="img-fluid rounded w-100" src="img/event-1.jpg" alt="">
+                                                <img class="img-fluid rounded w-100" src="img/wedding1.jpg" alt="">
                                                 <div class="event-overlay d-flex flex-column p-4">
                                                     <h4 class="me-auto">Wedding</h4>
-                                                    <a href="img/event-1.jpg" data-lightbox="event-1" class="my-auto"><i class="fas fa-search-plus text-dark fa-2x"></i></a>
+                                                    <a href="img/wedding1a.jpg" data-lightbox="event-1" class="my-auto"><i class="fas fa-search-plus text-dark fa-2x"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -71,10 +71,10 @@
                                         </div>
                                         <div class="col-md-6 col-lg-3 wow bounceInUp" data-wow-delay="0.5s">
                                             <div class="event-img position-relative">
-                                                <img class="img-fluid rounded w-100" src="img/event-3.jpg" alt="">
+                                                <img class="img-fluid rounded w-100" src="img/wedding1.jpg" alt="">
                                                 <div class="event-overlay d-flex flex-column p-4">
                                                     <h4 class="me-auto">Wedding</h4>
-                                                    <a href="img/event-3.jpg" data-lightbox="event-3" class="my-auto"><i class="fas fa-search-plus text-dark fa-2x"></i></a>
+                                                    <a href="img/wedding1.jpg" data-lightbox="event-3" class="my-auto"><i class="fas fa-search-plus text-dark fa-2x"></i></a>
                                                 </div>
                                             </div>
                                         </div>

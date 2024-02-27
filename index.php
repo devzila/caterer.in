@@ -446,13 +446,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-1.jpg"
+                          src="img/wedding1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Wedding</h4>
                           <a
-                            href="img/event-1.jpg"
+                            href="img/wedding1a.jpg"
                             data-lightbox="event-1"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -637,7 +637,43 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-2.jpg"
+                          src="img/event-1.jpg"
+                          alt=""
+                        />
+                        <div class="event-overlay d-flex flex-column p-4">
+                          <h4 class="me-auto">Wedding</h4>
+                          <a
+                            href="img/01.jpg"
+                            data-lightbox="event-8"
+                            class="my-auto"
+                            ><i class="fas fa-search-plus text-dark fa-2x"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="event-img position-relative">
+                        <img
+                          class="img-fluid rounded w-100"
+                          src="img/wedding4.jpg"
+                          alt=""
+                        />
+                        <div class="event-overlay d-flex flex-column p-4">
+                          <h4 class="me-auto">Wedding</h4>
+                          <a
+                            href="img/wedding1.jpg"
+                            data-lightbox="event-8"
+                            class="my-auto"
+                            ><i class="fas fa-search-plus text-dark fa-2x"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="event-img position-relative">
+                        <img
+                          class="img-fluid rounded w-100"
+                          src="img/wedding1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
@@ -794,7 +830,8 @@
     <!-- Events End -->
 
     <!-- Menu Start -->
-    <div class="container-fluid menu bg-light py-6 my-6">
+    <!-- <div class="container-fluid menu bg-light py-6 my-6">
+      
       <div class="container">
         <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
           <small
@@ -823,7 +860,7 @@
                 data-bs-toggle="pill"
                 href="#tab-7"
               >
-                <span class="text-dark" style="width: 150px">Main Course (Veg.)</span>
+                <span class="text-dark" style="width: 150px">Main Course</span>
               </a>
             </li>
             <li class="nav-item p-2">
@@ -842,7 +879,7 @@
                 href="#tab-9"
               >
                 <span class="text-dark" style="width: 150px">Dessert</span>
-              </a>
+              </a>Sabudana Tikki
             </li>
             <li class="nav-item p-2">
               <a
@@ -1368,11 +1405,12 @@
                       <div
                         class="d-flex justify-content-between border-bottom border-primary pb-2 mb-2"
                       >
-                        <h4>Gulab Jamun</h4>
+                        <h4>Sabudana Tikki</h4>
                         <h4 class="text-primary"></h4>
                       </div>
                       <p class="mb-0">
-                      Gulab jamun is a sweet confectionary or dessert, originating in the Indian subcontinent and a type of mithai popular in India.
+                        Consectetur adipiscing elit sed dwso eiusmod tempor
+                        incididunt ut labore.
                       </p>
                     </div>
                   </div>
@@ -1701,7 +1739,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Menu End -->
 
     <!-- Book Us Start -->
