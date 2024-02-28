@@ -8,10 +8,10 @@
           <div class="col-lg-3 col-md-6">
             <div class="footer-item">
               <h1 class="text-primary">
-                Chandigarh<span class="text-dark">Caterer</span>
+              Chandigarh<span class="text-dark">Caterer</span>
               </h1>
               <p class="lh-lg mb-4">
-                We are one of Chandigarh’s and Tri City's best caterer, offering a high level of catering service. With over many years experience and our innovative dishes 
+                We are one of Chandigarh’s & Tri City's best caterer, offering a high level of catering services with over many years experience and our innovative dishes.
                 range, we make sure your event remain memorable.
               </p>
               <div class="footer-icon d-flex">
@@ -40,17 +40,17 @@
             <div class="footer-item">
               <h4 class="mb-4">Special Facilities</h4>
               <div class="d-flex flex-column align-items-start">
-                <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Satwik Buffet</a
+                <a class="text-body mb-3" href="#"
+                  ><i class="fa fa-check text-primary me-2"></i>Spl. Fasting (Vrat) Food</a
                 >
-                <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Housing Society Festival</a
+                <a class="text-body mb-3" href="#"
+                  ><i class="fa fa-check text-primary me-2"></i>Flower Decoration</a
                 >
-                <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Corporate Kitchen</a
+                <a class="text-body mb-3" href="#"
+                  ><i class="fa fa-check text-primary me-2"></i>Event Management</a
                 >
-                <a class="text-body mb-3" href=""
-                  ><i class="fa fa-check text-primary me-2"></i>Lunger</a
+                <a class="text-body mb-3" href="#"
+                  ><i class="fa fa-check text-primary me-2"></i>Tour & Travelling</a
                 >
               </div>
             </div>
@@ -60,7 +60,7 @@
               <h4 class="mb-4">Contact Us</h4>
               <div class="d-flex flex-column align-items-start">
                 <p>
-                  <i class="fa fa-map-marker-alt text-primary me-2"></i> SCO - 91
+                  <i class="fa fa-map-marker-alt text-primary me-2"></i> SCO - 91,
                   2nd Floor, Panchkula
                 </p>
                 <p>
@@ -68,7 +68,7 @@
                 </p>
                 <p>
                   <i class="fas fa-envelope text-primary me-2"></i>
-                  info@example.com
+                  info@chandigarhcaterer.in
                 </p>
                 <p>
                   <i class="fa fa-clock text-primary me-2"></i> 24/7 Hours

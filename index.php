@@ -25,15 +25,15 @@
               Event
             </h1>
             <a
-              href=""
+              href="contact.php"
               class="btn btn-primary border-0 rounded-pill py-3 px-4 px-md-5 me-4 animated bounceInLeft"
               >Book Now</a
             >
-            <a
+            <!-- <a
               href=""
               class="btn btn-primary border-0 rounded-pill py-3 px-4 px-md-5 animated bounceInLeft"
-              >Know More</a
-            >
+              >Know More</a -->
+            
           </div>
           <div class="col-lg-5 col-md-12">
             <img
@@ -60,7 +60,7 @@
               class="d-inline-block fw-bold text-dark text-uppercase bg-light border border-primary rounded-pill px-4 py-1 mb-3"
               >About Us</small
             >
-            <h1 class="display-5 mb-4">Trusted By 500 + satisfied clients</h1>
+            <h1 class="display-5 mb-4">Trusted By 200 + satisfied clients</h1>
             <p class="mb-4">
             We put continuous effort and attention to meet 
             the expectation of our clients by actively working 
@@ -103,7 +103,7 @@
                 <div class="faqt-item bg-primary rounded p-4 text-center">
                   <i class="fas fa-users fa-4x mb-4 text-white"></i>
                   <h1 class="display-4 fw-bold" data-toggle="counter-up">
-                    689
+                    250
                   </h1>
                   <p class="text-dark text-uppercase fw-bold mb-0">
                     Happy Customers
@@ -114,10 +114,10 @@
                 <div class="faqt-item bg-primary rounded p-4 text-center">
                   <i class="fas fa-users-cog fa-4x mb-4 text-white"></i>
                   <h1 class="display-4 fw-bold" data-toggle="counter-up">
-                    107
+                    20
                   </h1>
                   <p class="text-dark text-uppercase fw-bold mb-0">
-                    Expert Chefs
+                    Expert Master Chefs
                   </p>
                 </div>
               </div>
@@ -125,10 +125,10 @@
                 <div class="faqt-item bg-primary rounded p-4 text-center">
                   <i class="fas fa-check fa-4x mb-4 text-white"></i>
                   <h1 class="display-4 fw-bold" data-toggle="counter-up">
-                    253
+                    200
                   </h1>
                   <p class="text-dark text-uppercase fw-bold mb-0">
-                    Events Complete
+                    Events Completed
                   </p>
                 </div>
               </div>
@@ -467,13 +467,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-2.jpg"
+                          src="img/corporate1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Corporate</h4>
                           <a
-                            href="img/event-2.jpg"
+                            href="img/corporate1a.jpg"
                             data-lightbox="event-2"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -488,13 +488,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-3.jpg"
+                          src="img/wedding2.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Wedding</h4>
                           <a
-                            href="img/event-3.jpg"
+                            href="img/wedding2a.jpg"
                             data-lightbox="event-3"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -509,13 +509,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-4.jpg"
+                          src="img/event1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Buffet</h4>
+                          <h4 class="me-auto">Events</h4>
                           <a
-                            href="img/event-4.jpg"
+                            href="img/event1a.jpg"
                             data-lightbox="event-4"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -530,13 +530,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-5.jpg"
+                          src="img/academic1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Academic</h4>
                           <a
-                            href="img/event-5.jpg"
+                            href="img/academic1a.jpg"
                             data-lightbox="event-5"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -551,13 +551,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-6.jpg"
+                          src="img/wedding3.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Wedding</h4>
                           <a
-                            href="img/event-6.jpg"
+                            href="img/wedding3a.jpg"
                             data-lightbox="event-6"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -572,13 +572,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-7.jpg"
+                          src="img/academic2.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Buffet</h4>
+                          <h4 class="me-auto">Academic</h4>
                           <a
-                            href="img/event-7.jpg"
+                            href="img/academic2a.jpg"
                             data-lightbox="event-7"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -593,13 +593,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-8.jpg"
+                          src="img/corporate3.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Corporate</h4>
                           <a
-                            href="img/event-8.jpg"
+                            href="img/corporate3a.jpg"
                             data-lightbox="event-17"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -619,13 +619,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-1.jpg"
+                          src="img/wedding1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Wedding</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/wedding1a.jpg"
                             data-lightbox="event-8"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -637,13 +637,31 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-1.jpg"
+                          src="img/wedding2.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Wedding</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/wedding2a.jpg"
+                            data-lightbox="event-8"
+                            class="my-auto"
+                            ><i class="fas fa-search-plus text-dark fa-2x"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="event-img position-relative">
+                        <img
+                          class="img-fluid rounded w-100"
+                          src="img/wedding3.jpg"
+                          alt=""
+                        />
+                        <div class="event-overlay d-flex flex-column p-4">
+                          <h4 class="me-auto">Wedding</h4>
+                          <a
+                            href="img/wedding3a.jpg"
                             data-lightbox="event-8"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -661,25 +679,7 @@
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Wedding</h4>
                           <a
-                            href="img/wedding1.jpg"
-                            data-lightbox="event-8"
-                            class="my-auto"
-                            ><i class="fas fa-search-plus text-dark fa-2x"></i
-                          ></a>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                      <div class="event-img position-relative">
-                        <img
-                          class="img-fluid rounded w-100"
-                          src="img/wedding1.jpg"
-                          alt=""
-                        />
-                        <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Wedding</h4>
-                          <a
-                            href="img/01.jpg"
+                            href="img/wedding4a.jpg"
                             data-lightbox="event-9"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -699,13 +699,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-3.jpg"
+                          src="img/corporate1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Corporate</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/corporate1a.jpg"
                             data-lightbox="event-10"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -717,13 +717,49 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-4.jpg"
+                          src="img/corporate2.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
                           <h4 class="me-auto">Corporate</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/corporate2a.jpg"
+                            data-lightbox="event-11"
+                            class="my-auto"
+                            ><i class="fas fa-search-plus text-dark fa-2x"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="event-img position-relative">
+                        <img
+                          class="img-fluid rounded w-100"
+                          src="img/corporate3.jpg"
+                          alt=""
+                        />
+                        <div class="event-overlay d-flex flex-column p-4">
+                          <h4 class="me-auto">Corporate</h4>
+                          <a
+                            href="img/corporate3a.jpg"
+                            data-lightbox="event-11"
+                            class="my-auto"
+                            ><i class="fas fa-search-plus text-dark fa-2x"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="event-img position-relative">
+                        <img
+                          class="img-fluid rounded w-100"
+                          src="img/corporate4.jpg"
+                          alt=""
+                        />
+                        <div class="event-overlay d-flex flex-column p-4">
+                          <h4 class="me-auto">Corporate</h4>
+                          <a
+                            href="img/corporate4a.jpg"
                             data-lightbox="event-11"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -743,13 +779,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-5.jpg"
+                          src="img/event1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Academic</h4>
+                          <h4 class="me-auto">Events</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/event1a.jpg"
                             data-lightbox="event-12"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -761,13 +797,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-6.jpg"
+                          src="img/event2.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Academic</h4>
+                          <h4 class="me-auto">Events</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/event2a.jpg"
                             data-lightbox="event-13"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -787,13 +823,13 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-7.jpg"
+                          src="img/academic1.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Buffet</h4>
+                          <h4 class="me-auto">Academic</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/academic1a.jpg"
                             data-lightbox="event-14"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -805,13 +841,31 @@
                       <div class="event-img position-relative">
                         <img
                           class="img-fluid rounded w-100"
-                          src="img/event-8.jpg"
+                          src="img/academic2.jpg"
                           alt=""
                         />
                         <div class="event-overlay d-flex flex-column p-4">
-                          <h4 class="me-auto">Buffet</h4>
+                          <h4 class="me-auto">Academic</h4>
                           <a
-                            href="img/01.jpg"
+                            href="img/academic2a.jpg"
+                            data-lightbox="event-15"
+                            class="my-auto"
+                            ><i class="fas fa-search-plus text-dark fa-2x"></i
+                          ></a>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                      <div class="event-img position-relative">
+                        <img
+                          class="img-fluid rounded w-100"
+                          src="img/academic3.jpg"
+                          alt=""
+                        />
+                        <div class="event-overlay d-flex flex-column p-4">
+                          <h4 class="me-auto">Academic</h4>
+                          <a
+                            href="img/academic3a.jpg"
                             data-lightbox="event-15"
                             class="my-auto"
                             ><i class="fas fa-search-plus text-dark fa-2x"></i
@@ -1770,15 +1824,11 @@
               </div>
               <div class="row g-4 form">
                 <div class="col-lg-4 col-md-6">
-                  <select
-                    class="form-select border-primary p-2"
-                    aria-label="Default select example"
-                  >
-                    <option selected>Select Country</option>
-                    <option value="1">USA</option>
-                    <option value="2">UK</option>
-                    <option value="3">India</option>
-                  </select>
+                <input
+                    type="text"
+                    class="form-control border-primary p-2"
+                    placeholder="Enter Your Name"
+                  />
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <select
@@ -1786,9 +1836,30 @@
                     aria-label="Default select example"
                   >
                     <option selected>Select City</option>
-                    <option value="1">Depend On Country</option>
-                    <option value="2">UK</option>
-                    <option value="3">India</option>
+                    <option value="1">Chandigarh</option>
+                    <option value="2">Panchkula</option>
+                    <option value="3">Mohali</option>
+                  </select>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                <input
+                    type="text"
+                    class="form-control border-primary p-2"
+                    placeholder="Enter Event Address."
+                  />
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <select
+
+                    class="form-select border-primary p-2"
+                    aria-label="Default select example"
+
+                  >
+                  <option selected>Select Event Type</option>
+
+                    <option value="1">Small Event</option>
+                    <option value="2">Medium Event</option>
+                    <option value="3">Big Event</option>
                   </select>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -1796,29 +1867,7 @@
                     class="form-select border-primary p-2"
                     aria-label="Default select example"
                   >
-                    <option selected>Select Palace</option>
-                    <option value="1">Depend On Country</option>
-                    <option value="2">UK</option>
-                    <option value="3">India</option>
-                  </select>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                  <select
-                    class="form-select border-primary p-2"
-                    aria-label="Default select example"
-                  >
-                    <option selected>Small Event</option>
-                    <option value="1">Event Type</option>
-                    <option value="2">Big Event</option>
-                    <option value="3">Small Event</option>
-                  </select>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                  <select
-                    class="form-select border-primary p-2"
-                    aria-label="Default select example"
-                  >
-                    <option selected>No. Of Palace</option>
+                    <option selected>No. of Person</option>
                     <option value="1">100-200</option>
                     <option value="2">300-400</option>
                     <option value="3">500-600</option>
@@ -1832,7 +1881,7 @@
                     class="form-select border-primary p-2"
                     aria-label="Default select example"
                   >
-                    <option selected>Vegetarian</option>
+                    <option selected>Select Food Type</option>
                     <option value="1">Vegetarian</option>
                     <option value="2">Non Vegetarian</option>
                   </select>
@@ -1846,7 +1895,8 @@
                 </div>
                 <div class="col-lg-4 col-md-6">
                   <input
-                    type="date"
+                    type="text"
+                    onfocus="(this.type='date')"
                     class="form-control border-primary p-2"
                     placeholder="Select Date"
                   />
@@ -1883,7 +1933,7 @@
     <!-- Book Us End -->
 
     <!-- Team Start -->
-    <div class="container-fluid team py-6">
+    <!-- <div class="container-fluid team py-6">
       <div class="container">
         <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
           <small
@@ -2027,7 +2077,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Team End -->
 
     <!-- Testimonial Start -->
@@ -2055,8 +2105,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Pramod Sharma</h4>
+                <p class="m-0">Business</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2068,15 +2118,14 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                Professionalism is one of the best things in Chandigarh caterers, they are perfect and prompt.
               </p>
             </div>
           </div>
           <div class="testimonial-item rounded bg-light">
             <div class="d-flex mb-3">
               <img
-                src="img/testimonial-2.jpg"
+                src="img/testimonial-1.jpg"
                 class="img-fluid rounded-circle flex-shrink-0"
                 alt=""
               />
@@ -2084,8 +2133,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Rahul Pathania</h4>
+                <p class="m-0">Service</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2097,15 +2146,14 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                Very quick and professional service provided by Chandigarh caterer, delicious food and quality service.
               </p>
             </div>
           </div>
           <div class="testimonial-item rounded bg-light">
             <div class="d-flex mb-3">
               <img
-                src="img/testimonial-3.jpg"
+                src="img/testimonial-1.jpg"
                 class="img-fluid rounded-circle flex-shrink-0"
                 alt=""
               />
@@ -2113,8 +2161,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Avinash Parashar</h4>
+                <p class="m-0">Service</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2126,15 +2174,14 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                Team of the Chandigarh Caterers are very cool and pleasant, they fullfill what they promise with client.
               </p>
             </div>
           </div>
           <div class="testimonial-item rounded bg-light">
             <div class="d-flex mb-3">
               <img
-                src="img/testimonial-4.jpg"
+                src="img/testimonial-1.jpg"
                 class="img-fluid rounded-circle flex-shrink-0"
                 alt=""
               />
@@ -2142,8 +2189,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Amit Sharma</h4>
+                <p class="m-0">Real Estate</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2155,8 +2202,7 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                They know how to manage the things specially for corporate events, nothing to remind them, they understand everything.
               </p>
             </div>
           </div>
@@ -2176,8 +2222,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Priyanka</h4>
+                <p class="m-0">Doctor</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2189,15 +2235,14 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                Hygenic and fresh food, quality and prompt service, reasonable price, but no negotiation. Overall everything is good.
               </p>
             </div>
           </div>
           <div class="testimonial-item rounded bg-light">
             <div class="d-flex mb-3">
               <img
-                src="img/testimonial-2.jpg"
+                src="img/testimonial-1.jpg"
                 class="img-fluid rounded-circle flex-shrink-0"
                 alt=""
               />
@@ -2205,8 +2250,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Naveen Bali</h4>
+                <p class="m-0">Business</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2218,15 +2263,14 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                Amazing, outstanding and delicous food quality, excellent service, very friendly and cooperative.
               </p>
             </div>
           </div>
           <div class="testimonial-item rounded bg-light">
             <div class="d-flex mb-3">
               <img
-                src="img/testimonial-3.jpg"
+                src="img/testimonial-1.jpg"
                 class="img-fluid rounded-circle flex-shrink-0"
                 alt=""
               />
@@ -2234,8 +2278,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Prem Anand</h4>
+                <p class="m-0">Engineer</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2247,15 +2291,14 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                They serve what they promise, excellent service and good manner. Food and service quality is great!
               </p>
             </div>
           </div>
           <div class="testimonial-item rounded bg-light">
             <div class="d-flex mb-3">
               <img
-                src="img/testimonial-4.jpg"
+                src="img/testimonial-1.jpg"
                 class="img-fluid rounded-circle flex-shrink-0"
                 alt=""
               />
@@ -2263,8 +2306,8 @@
                 <i class="fa fa-quote-right fa-2x"></i>
               </div>
               <div class="ps-3 my-auto">
-                <h4 class="mb-0">Person Name</h4>
-                <p class="m-0">Profession</p>
+                <h4 class="mb-0">Ankita Pathania</h4>
+                <p class="m-0">Housewife</p>
               </div>
             </div>
             <div class="testimonial-content">
@@ -2276,8 +2319,7 @@
                 <i class="fas fa-star text-primary"></i>
               </div>
               <p class="fs-5 m-0 pt-3">
-                Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore
-                et dolore magna aliqua.
+                I totally convinced with the services being provided by Chandigarh Caters, their team mates are very professional.
               </p>
             </div>
           </div>
@@ -2307,12 +2349,12 @@
                   <div
                     class="h-100 p-3 d-flex flex-column justify-content-center text-center"
                   >
-                    <p class="fw-bold mb-0">16</p>
-                    <p class="fw-bold mb-0">Sep</p>
+                    <p class="fw-bold mb-0">15</p>
+                    <p class="fw-bold mb-0">Jan.</p>
                   </div>
                 </div>
                 <a href="#" class="h5 lh-base my-auto h-100 p-3"
-                  >How to get more test in your food from</a
+                  >Enjoy and celebrate the joy of food..</a
                 >
               </div>
             </div>
@@ -2327,12 +2369,12 @@
                   <div
                     class="h-100 p-3 d-flex flex-column justify-content-center text-center"
                   >
-                    <p class="fw-bold mb-0">16</p>
-                    <p class="fw-bold mb-0">Sep</p>
+                    <p class="fw-bold mb-0">22</p>
+                    <p class="fw-bold mb-0">Jan.</p>
                   </div>
                 </div>
                 <a href="#" class="h5 lh-base my-auto h-100 p-3"
-                  >How to get more test in your food from</a
+                  >Healthy recipes made for every day life..</a
                 >
               </div>
             </div>
@@ -2347,12 +2389,12 @@
                   <div
                     class="h-100 p-3 d-flex flex-column justify-content-center text-center"
                   >
-                    <p class="fw-bold mb-0">16</p>
-                    <p class="fw-bold mb-0">Sep</p>
+                    <p class="fw-bold mb-0">07</p>
+                    <p class="fw-bold mb-0">Feb.</p>
                   </div>
                 </div>
                 <a href="#" class="h5 lh-base my-auto h-100 p-3"
-                  >How to get more test in your food from</a
+                  >Finger-licking spicy Indian food recipes..</a
                 >
               </div>
             </div>

@@ -21,7 +21,7 @@
               <a href="about" class="nav-item nav-link">About</a>
               <a href="service" class="nav-item nav-link">Services</a>
               <a href="event" class="nav-item nav-link">Events</a>
-              <a href="menu" class="nav-item nav-link">Menu</a>
+              <!-- <a href="menu" class="nav-item nav-link">Menu</a> -->
               <a href="contact" class="nav-item nav-link">Contact</a>
             </div>
             <a
