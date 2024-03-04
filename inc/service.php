@@ -1,6 +1,6 @@
 
-<!-- Service Start -->
-<div class="container-fluid service py-6">
+    <!-- Service Start -->
+    <div class="container-fluid service py-6">
       <div class="container">
         <div class="text-center wow bounceInUp" data-wow-delay="0.1s">
           <small
