@@ -70,11 +70,11 @@
                     aria-label="Default select example"
                   >
                     <option selected>No. of Person</option>
-                    <option value="1">100-200</option>
-                    <option value="2">300-400</option>
-                    <option value="3">500-600</option>
-                    <option value="4">700-800</option>
-                    <option value="5">900-1000</option>
+                    <option value="1">50-100</option>
+                    <option value="2">100-200</option>
+                    <option value="3">200-500</option>
+                    <option value="4">500-700</option>
+                    <option value="5">700-1000</option>
                     <option value="6">1000+</option>
                   </select>
                 </div>
