@@ -22,10 +22,10 @@
                         </div>
                         <div class="col-md-6 col-lg-7">
                             <p class="mb-4">Fill the form below and we will get back to you within 1-2 hours</p>
-                            <form>
-                                <input type="text" class="w-100 form-control p-3 mb-4 border-primary bg-light" placeholder="Your Name">
-                                <input type="email" class="w-100 form-control p-3 mb-4 border-primary bg-light" placeholder="Enter Your Mobile No.">
-                                <textarea class="w-100 form-control mb-4 p-3 border-primary bg-light" rows="4" cols="10" placeholder="Your Message"></textarea>
+                            <form action="formsubmit.php" method="post">
+                                <input type="text" class="w-100 form-control p-3 mb-4 border-primary bg-light" name="name" placeholder="Your Name">
+                                <input type="text" class="w-100 form-control p-3 mb-4 border-primary bg-light" name="mobile_number" placeholder="Enter Your Mobile No.">
+                                <textarea class="w-100 form-control mb-4 p-3 border-primary bg-light" rows="4" cols="10" name="message" placeholder="Your Message"></textarea>
                                 <button class="w-100 btn btn-primary form-control p-3 border-primary bg-primary rounded-pill" type="submit">Submit Now</button>
                             </form>
                         </div>
