@@ -1,7 +1,7 @@
 <?php
+
 $url = "http://api.devzila.com/collector.php";
-$data = ['name'=> $_POST['name'],"mobile_number"=>$_POST["mobile_number"],"message"=> $_POST['message']];
-// use key 'http' even if you send the request to https://...
+$data = ['name' => $_POST['name'], "mobile_number" => $_POST["mobile_number"], "message" => $_POST['message']];
 $options = [
     'http' => [
         'header' => "Content-type: application/x-www-form-urlencoded\r\n",
@@ -10,15 +10,13 @@ $options = [
     ],
 ];
 
-
 $context = stream_context_create($options);
 $result = file_get_contents($url, false, $context);
 
 header('Location: /index.php');
-if ($result === false) {
-    
+
+if ($result == false) {
+    header('Location: /contact.php');
+    exit; 
 }
-
-var_dump($result);
-
 ?>
