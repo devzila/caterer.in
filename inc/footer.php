@@ -64,7 +64,7 @@
                   2nd Floor, Panchkula
                 </p>
                 <p>
-                  <i class="fa fa-phone-alt text-primary me-2"></i>9898989898
+                  <i class="fa fa-phone-alt text-primary me-2"></i>7986844056
                 </p>
                 <p>
                   <i class="fas fa-envelope text-primary me-2"></i>
