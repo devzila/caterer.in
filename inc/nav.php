@@ -25,9 +25,9 @@
               <a href="contact" class="nav-item nav-link">Contact</a>
             </div>
             <a
-              href="tel:+919898989898"
+              href="tel:+917986844056"
               class="btn btn-primary py-2 px-4 d-none d-xl-inline-block rounded-pill"
-              ><i class="fas fa-phone-alt"></i> 9898989898</a
+              ><i class="fas fa-phone-alt"></i>7986844056</a
             >
           </div>
         </nav>
