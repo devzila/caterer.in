@@ -50,8 +50,7 @@
                                     <i class="fa fa-phone-alt fa-2x text-primary me-4"></i>
                                     <div class="">
                                         <h4>Telephone</h4>
-                                        <p class="mb-2">9898989898</p>
-                                        <p class="mb-0">9898989898</p>
+                                        <p class="mb-2">7986844056</p>
                                     </div>
                                 </div>
                             </div>
